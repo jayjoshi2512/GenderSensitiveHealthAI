@@ -1,0 +1,11 @@
+Disease,Symptoms,Prevalence Male (%),Prevalence Female (%),Treatments
+Common Cold,"Runny nose, sore throat, cough, congestion",40,60,"Rest, fluids, over-the-counter cold medication"
+Influenza,"Fever, chills, body aches, fatigue",45,55,"Rest, fluids, antiviral medications (if severe), over-the-counter pain and fever relievers"
+Headache,"Head pain, sensitivity to light or sound",40,60,"Pain relievers, relaxation techniques"
+Sore Throat,"Throat pain, difficulty swallowing",30,70,"Gargling with warm salt water, throat lozenges, pain relievers"
+Upset Stomach,"Nausea, vomiting, diarrhea, stomach pain",50,50,"BRAT diet (bananas, rice, applesauce, toast), fluids, over-the-counter antidiarrheal meds"
+Sunburn,"Redness, pain, swelling, blisters (severe)",40,60,"Cool compresses, moisturizers, aloe vera gel"
+Insomnia,Difficulty falling or staying asleep,40,60,"Establishing a bedtime routine, relaxation techniques, cognitive-behavioral therapy"
+Allergies,"Sneezing, runny or stuffy nose, itchy eyes",30,70,"Antihistamines, nasal corticosteroids, avoiding allergens"
+Muscle Strain,"Muscle pain, swelling, limited movement",60,40,"Rest, ice packs, compression, elevation (RICE), pain relievers"
+Acne,"Pimples, blackheads, whiteheads",35,65,"Gentle cleansers, topical treatments (benzoyl peroxide, salicylic acid), avoiding triggers"
