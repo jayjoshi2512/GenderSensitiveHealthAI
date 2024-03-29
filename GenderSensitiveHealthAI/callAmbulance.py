@@ -4,10 +4,10 @@ import webbrowser
 from twilio.rest import Client
 
 # Twilio credentials
-TWILIO_ACCOUNT_SID = 'AC051c94b636e2e33a3d4604211cfbdaca'
-TWILIO_AUTH_TOKEN = '567ffed0a4ae67ca2e9aa7e812a4139f'
-TWILIO_PHONE_NUMBER = '+1 650 263 8687'
-FRIEND_PHONE_NUMBER = '+919359215647'
+TWILIO_ACCOUNT_SID = ''
+TWILIO_AUTH_TOKEN = ''
+TWILIO_PHONE_NUMBER = ''
+FRIEND_PHONE_NUMBER = ''
 
 def get_current_location():
     geolocator = Nominatim(user_agent="ambulance_app")
